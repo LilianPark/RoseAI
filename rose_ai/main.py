@@ -1,8 +1,5 @@
-import requests
 
 
-class RoseClient:
-    def __init__(self):
-        print("started")
-
+def add_one(number):
+    return number + 1
 
